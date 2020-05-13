@@ -1,1 +1,5 @@
-# github
+<?php
+
+print 'hello'
+
+?>
